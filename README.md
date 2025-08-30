@@ -26,7 +26,8 @@
 ## 📫 How to reach me  
 - LinkedIn: [Hazem Farouk](https://www.linkedin.com/in/hazem-farouk-se/)  
 - Email: hazem.m.farouq@gmail.com  
-- GitHub: [7zem](https://github.com/7zem)  
+- GitHub: [7zem](https://github.com/7zem)
+- Phone: +201010193357 
 
 ## 🎸 Outside of Coding  
 I enjoy reading, playing music, and swimming.  
